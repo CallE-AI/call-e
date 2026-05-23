@@ -1,5 +1,5 @@
 ## About
-☎️ Pyckup is a Python package used to make and recieve calls and have them conducted by AI.  
+☎️ Pyckup is a Python package used to make and receive calls and have them conducted by AI.
 🔧 Can be used to build all kinds of realtime applications that work over the telephone network, including ones with complex conversational flows.  
 📖 It's like [Bland](https://www.bland.ai/) or [Synthflow](https://synthflow.ai/), but Open Source.  
 ⚙️ Conversations can be defined by providing a YAML conversation configuration file (you can imagine the agent following a flowchart of conversation items that you specify). See annotated example in samples/sample_conversation_config.yaml.  
