@@ -64,7 +64,7 @@ from pyckup_core.pyckup import Pyckup
 pu = Pyckup("sip_credentials.json")
 
 grp = pu.start_listening(ConversationConfig.from_yaml("hello_world_config.yaml"))
-# calls can be recieved during this time
+# calls can be received during this time
 input()
 pu.stop_listening(grp)
 ```
